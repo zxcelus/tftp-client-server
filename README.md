@@ -1,5 +1,7 @@
 TFTP Client–Server Application (RFC 1350)
+
 Приложение представляет собой реализацию протокола TFTP (Trivial File Transfer Protocol) на Java, включающую:
+
 — TFTP-сервер
 — TFTP-клиент с графическим интерфейсом (JavaFX)
 — Полную обработку всех пакетов протокола (RRQ, WRQ, DATA, ACK, ERROR)
